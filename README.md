@@ -1,3 +1,5 @@
+![Logo do Meu Projeto](https://cdn.discordapp.com/attachments/1175249252771958844/1191949985932132412/tabbar.png?ex=65a74cee&is=6594d7ee&hm=ddca783f8a1867ffecb1563a84f9cb5ea61fa487b8e3db2013ccf9c7b20ff7fb&)
+
 # TabBar Interativa com GSAP
 
 Bem-vindo à **TabBar Interativa**, uma experiência de navegação visualmente atraente e dinâmica! Este componente web é construído com HTML, CSS e JavaScript, e utiliza a poderosa biblioteca [GSAP](https://greensock.com/gsap) (GreenSock Animation Platform) para criar transições suaves e animações deslumbrantes.
@@ -25,6 +27,3 @@ Bem-vindo à **TabBar Interativa**, uma experiência de navegação visualmente 
 - **GSAP Integration:** Descubra como a integração da GSAP eleva o nível das animações nesta barra de guias.
 
 Sinta-se à vontade para contribuir, sugerir melhorias ou simplesmente explorar o código-fonte. Transforme a navegação em uma experiência fascinante com nossa **TabBar**!
-
-
-![Logo do Meu Projeto](https://cdn.discordapp.com/attachments/1175249252771958844/1191949985932132412/tabbar.png?ex=65a74cee&is=6594d7ee&hm=ddca783f8a1867ffecb1563a84f9cb5ea61fa487b8e3db2013ccf9c7b20ff7fb&)
